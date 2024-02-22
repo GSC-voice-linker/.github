@@ -9,8 +9,9 @@
 <br>
 
 ## Introduction to the Service
-Our team, "Voice-Linker," has developed an interactive communication application designed for real-time conversations between deaf individuals and those without disabilities. Our app translates the sign language used by deaf people into text and spoken words, while also converting the spoken words of non-disabled individuals into text. This enables seamless communication between both parties. The primary goal of this function is to lower the barriers to social participation for the deaf community, facilitating natural and everyday conversations. It significantly enhances social inclusion and opportunities.
-
+99.93 percent of people in South Korea do not understand sign language. Unsurprisingly, deaf people have tremendous difficulty communicating and have a hard time socializing.
+"VOICE BRIDGE" was developed to facilitate smooth communication in the daily lives of the deaf. Our app translates the sign language used by deaf people into text and spoken words, while also converting the spoken words of non-disabled individuals into text. This enables seamless communication between both parties.
+The primary goal of this app is to lower the barriers to social participation for the deaf community, facilitating natural and everyday conversations. It significantly enhances social inclusion and opportunities.
 
 ## 📱 Screens
 |Splash Screen                    |   Home screen             |
