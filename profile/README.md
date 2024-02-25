@@ -28,7 +28,7 @@ These translation results enable natural communication between parties.
 
 ## 📀 Demo Video
 ![IMG_1057](https://github.com/GSC-voice-linker/.github/assets/79097171/2d25c3d9-da94-4acd-987e-1cf7da532ab1)
-- Youtube Video Link: https://www.youtube.com/
+- Youtube Video Link: https://youtu.be/2Yceyr7ussU?si=EtFJFUSGB2JZ_d4s
 
 ## 📱 How to run our app service
 - [VoiceBridge apk download link](https://drive.google.com/drive/u/0/folders/1OdnLlDRYL2huVHvX8ez1tTuez7Xa7YSX)
